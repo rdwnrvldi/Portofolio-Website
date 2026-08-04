@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+@import "./navbar.css";
+@import "./hero.css";
+@import "./about.css";
+@import "./skills.css";
+@import "./projects.css";
+@import "./contact.css";
+@import "./footer.css";
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+:root {
+    --primary: #112e81;
+    --primary-hover: #230647;
+
+    --text-dark: #141c3a;
+    --text-gray: #555555;
+
+    --bg-light: #ffffff;
+    --bg-section: #f4f8fb;
+}
