@@ -6,7 +6,7 @@
             <h3>Ridwan Rivaldi</h3>
 
             <p class="footer-desc">
-                IT Staff • Automation Engineer • Web Developer
+                IT Staff • Web Developer
             </p>
 
             <p class="footer-text">
