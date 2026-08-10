@@ -6,12 +6,12 @@
             <h3>Ridwan Rivaldi</h3>
 
             <p class="footer-desc">
-                IT Staff • Web Developer
+                IT Staff • Full Stack Web Developer
             </p>
 
             <p class="footer-text">
                 Building efficient automation, modern web applications,
-                and reliable IT solutions.
+                and reliable IT support solutions.
             </p>
 
             <div class="footer-social">

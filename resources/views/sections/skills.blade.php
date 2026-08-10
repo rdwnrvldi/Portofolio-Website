@@ -74,18 +74,6 @@
             </div>
 
             <div class="skill-card">
-                <i class="fa-brands fa-windows"></i>
-                <h4>Windows</h4>
-                <p>System Administration</p>
-            </div>
-
-            <div class="skill-card">
-                <i class="fa-solid fa-terminal"></i>
-                <h4>VB.NET</h4>
-                <p>Desktop Automation</p>
-            </div>
-
-            <div class="skill-card">
                 <i class="devicon-git-plain colored"></i>
                 <h4>Git</h4>
                 <p>Version Control</p>
