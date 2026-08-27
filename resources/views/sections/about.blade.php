@@ -14,7 +14,7 @@
         </h2>
 
         <p class="about-description">
-            I'm an IT Support, Automation Engineer, and Web Developer with
+            I'm an IT Staff and Web Developer with
             experience in endpoint management, infrastructure support,
             process automation, and modern web development.
 
@@ -24,9 +24,7 @@
 
         <div class="about-tags">
 
-            <span><i class="fa-solid fa-circle-check"></i> IT Support</span>
-
-            <span><i class="fa-solid fa-circle-check"></i> Automation</span>
+            <span><i class="fa-solid fa-circle-check"></i> IT Staff</span>
 
             <span><i class="fa-solid fa-circle-check"></i> Web Development</span>
 
@@ -45,26 +43,11 @@
                     <i class="fa-solid fa-headset"></i>
                 </div>
 
-                <h3>IT Support</h3>
+                <h3>IT Staff</h3>
 
                 <p>
                     Technical support, troubleshooting,
                     endpoint management and infrastructure maintenance.
-                </p>
-
-            </div>
-
-            <div class="about-card">
-
-                <div class="card-icon">
-                    <i class="fa-solid fa-gears"></i>
-                </div>
-
-                <h3>Automation Engineer</h3>
-
-                <p>
-                    Building workflow automation that reduces repetitive
-                    tasks and increases productivity.
                 </p>
 
             </div>

@@ -11,7 +11,7 @@
 
             <p class="footer-text">
                 Building efficient automation, modern web applications,
-                and reliable IT support solutions.
+                and reliable IT support solutions
             </p>
 
             <div class="footer-social">
