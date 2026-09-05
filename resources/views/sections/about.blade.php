@@ -1,89 +1,62 @@
-<section class="about" id="about">
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-
-    <div class="about-container">
-
-        <span class="section-subtitle">
-            About Me
-        </span>
-
-        <h2 class="section-title">
-            Turning Ideas Into
-            <span>Solutions</span>
-        </h2>
-
-        <p class="about-description">
-            I'm an IT Staff and Web Developer with
-            experience in endpoint management, infrastructure support,
-            process automation, and modern web development.
-
-            I enjoy building automation solutions that reduce manual work,
-            improve efficiency, and help organizations operate more effectively.
-        </p>
-
-        <div class="about-tags">
-
-            <span><i class="fa-solid fa-circle-check"></i> IT Staff</span>
-
-            <span><i class="fa-solid fa-circle-check"></i> Web Development</span>
-
-            <span><i class="fa-solid fa-circle-check"></i> Infrastructure</span>
-
-            <span><i class="fa-solid fa-circle-check"></i> Problem Solving</span>
-
+<!-- ========== ABOUT ========== -->
+<section class="about section" id="about">
+    <div class="container">
+        <div class="section-header">
+            <span class="section-tag">01 — About</span>
+            <h2 class="section-title">Siapa Saya?</h2>
         </div>
-
-
         <div class="about-grid">
-
-            <div class="about-card">
-
-                <div class="card-icon">
-                    <i class="fa-solid fa-headset"></i>
-                </div>
-
-                <h3>IT Staff</h3>
-
+            <div class="about-text">
                 <p>
-                    Technical support, troubleshooting,
-                    endpoint management and infrastructure maintenance.
+                    Saya seorang <strong>Full-Stack Web Developer</strong> dan <strong> It Staff </strong>dengan fokus
+                    pada membangun aplikasi web yang performa tinggi dan mudah
+                    dirawat. Berpengalaman di frontend modern web design dan juga troubleshot mengenai software dan hardware
                 </p>
-
-            </div>
-
-            <div class="about-card">
-
-                <div class="card-icon">
-                    <i class="fa-solid fa-code"></i>
-                </div>
-
-                <h3>Web Developer</h3>
-
                 <p>
-                    Creating responsive and modern websites with clean,
-                    scalable code.
+                    Saya suka mengubah ide menjadi produk nyata — dari prototyping
+                    sampai production. Selalu belajar teknologi baru dan menerapkan
+                    best practice di setiap project menggunakan Software Development Life Cycle
                 </p>
-
-            </div>
-
-            <div class="about-card">
-
-                <div class="card-icon">
-                    <i class="fa-solid fa-bullseye"></i>
+                <div class="about-meta">
+                    <div class="meta-item">
+                        <span class="meta-label">Lokasi</span>
+                        <span class="meta-value">Jakarta, Indonesia</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Email</span>
+                        <span class="meta-value">muhamadridwan875@gmail.com</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Status</span>
+                        <span class="meta-value available">● Available for project</span>
+                    </div>
                 </div>
-
-                <h3>Problem Solver</h3>
-
-                <p>
-                    Passionate about finding efficient and reliable
-                    solutions for complex IT challenges.
-                </p>
-
+                <a href="#" class="btn btn-primary">Download CV</a>
             </div>
-
+            <div class="about-card">
+                <div class="code-window">
+                    <div class="code-header">
+                        <span class="dot red"></span>
+                        <span class="dot yellow"></span>
+                        <span class="dot green"></span>
+                        <span class="code-title">about.js</span>
+                    </div>
+                    <pre
+                        class="code-body"><code><span class="c-keyword">const</span> <span class="c-var">developer</span> = {
+  <span class="c-key">name</span>: <span class="c-string">"Ridwan Rivaldi"</span>,
+  <span class="c-key">role</span>: <span class="c-string">"Full-Stack Web Developer"</span>,
+  <span class="c-key">yearsExp</span>: <span class="c-num">5</span>,
+  <span class="c-key">stack</span>: [
+    <span class="c-string">"PHP"</span>,
+    <span class="c-string">"Javascript"</span>,
+    <span class="c-string">"Vue.js"</span>,
+    <span class="c-string">"Mysql"</span>
+  ],
+  <span class="c-key">passion</span>: <span class="c-string">"Clean code & UX"</span>,
+  <span class="c-key">coffee</span>: <span class="c-bool">true</span>
+};</code></pre>
+                </div>
+            </div>
         </div>
-
     </div>
-
 </section>
