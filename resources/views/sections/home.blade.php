@@ -16,7 +16,7 @@
 
             <h2 class="hero-role">
                 <span class="typed-text">Full-Stack Developer</span>
-                <span class="cursor">|</span>
+                <span class="cursor"></span>
             </h2>
 
             <p class="hero-desc">

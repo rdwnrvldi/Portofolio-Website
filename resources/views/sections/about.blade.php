@@ -10,7 +10,7 @@
                 <p>
                     Saya seorang <strong>Full-Stack Web Developer</strong> dan <strong> It Staff </strong>dengan fokus
                     pada membangun aplikasi web yang performa tinggi dan mudah
-                    dirawat. Berpengalaman di frontend modern web design dan juga troubleshot mengenai software dan hardware
+                    dirawat. Berpengalaman di frontend modern web design dan juga troubleshoot mengenai software dan hardware
                 </p>
                 <p>
                     Saya suka mengubah ide menjadi produk nyata — dari prototyping

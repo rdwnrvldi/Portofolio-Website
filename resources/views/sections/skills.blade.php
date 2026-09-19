@@ -33,7 +33,6 @@
                 <h3><span class="cat-icon">◈</span> Database</h3>
                 <div class="skill-tags">
                     <span class="skill-tag">PostgreSQL</span>
-                    <span class="skill-tag">MongoDB</span>
                     <span class="skill-tag">Mysql</span>
                     <span class="skill-tag">SSMS</span>
                     <span class="skill-tag">Vercel</span>
